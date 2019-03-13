@@ -1,9 +1,0 @@
-C:\Users\ddo\Documents\InterSystems\dotnet\samples-dotnet-helloworld\samples-dotnet-helloworld\bin\Debug\samples-dotnet-helloworld.exe.config
-C:\Users\ddo\Documents\InterSystems\dotnet\samples-dotnet-helloworld\samples-dotnet-helloworld\bin\Debug\samples-dotnet-helloworld.exe
-C:\Users\ddo\Documents\InterSystems\dotnet\samples-dotnet-helloworld\samples-dotnet-helloworld\bin\Debug\samples-dotnet-helloworld.pdb
-C:\Users\ddo\Documents\InterSystems\dotnet\samples-dotnet-helloworld\samples-dotnet-helloworld\bin\Debug\InterSystems.Data.IRISClient.dll
-C:\Users\ddo\Documents\InterSystems\dotnet\samples-dotnet-helloworld\samples-dotnet-helloworld\obj\Debug\samples-dotnet-helloworld.csprojAssemblyReference.cache
-C:\Users\ddo\Documents\InterSystems\dotnet\samples-dotnet-helloworld\samples-dotnet-helloworld\obj\Debug\samples-dotnet-helloworld.csproj.CoreCompileInputs.cache
-C:\Users\ddo\Documents\InterSystems\dotnet\samples-dotnet-helloworld\samples-dotnet-helloworld\obj\Debug\samples-dotnet-helloworld.csproj.CopyComplete
-C:\Users\ddo\Documents\InterSystems\dotnet\samples-dotnet-helloworld\samples-dotnet-helloworld\obj\Debug\samples-dotnet-helloworld.exe
-C:\Users\ddo\Documents\InterSystems\dotnet\samples-dotnet-helloworld\samples-dotnet-helloworld\obj\Debug\samples-dotnet-helloworld.pdb
