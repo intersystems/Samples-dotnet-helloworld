@@ -5,7 +5,7 @@ Simple hello world code to show a .NET connection to InterSystems IRIS
   
 Edit **Samples-dotnet-helloworld/Simple/HelloWorld.cs**:  
 
-* Edit line 14 to change the ip to "try-iris"
+* Edit line 15 to change the ip to "try-iris"
 
 In the terminal window type:  
     `cd Samples-dotnet-helloworld/Simple`  
