@@ -2,8 +2,8 @@
 This is a simple hello world example to show a .NET connection to InterSystems IRIS. For more information about using this sample, please see [documentation](https://irisdocs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=AB_idesetup) .
 
 
-## To run this code in InterSystems Learning Labs
-1. Open **Samples-dotnet-helloworld/Simple/HelloWorld.cs**
+## To run this code in InterSystems Learning Labs, AWS, GCP, or Azure
+1. Open Samples-dotnet-helloworld/Simple/HelloWorld.cs
 2. Edit line 15 and change the value of ip to "try-iris"
 3. In the integrated terminal window type:  
     `cd Samples-dotnet-helloworld/Simple`  
