@@ -3,9 +3,11 @@ This is a simple hello world example to show a .NET connection to InterSystems I
 
 
 ## Run the sample
-In the integrated terminal window type:  
-    `cd /home/project/Samples-dotnet-helloworld/Simple`  
-    `dotnet run`  
+In the integrated terminal window type: 
+
+* `cd /home/project/Samples-dotnet-helloworld/Simple`  
+* `dotnet run`
+
 	
 This outputs data about the first 5 birds stored within InterSystems IRIS.
 	
