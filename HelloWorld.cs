@@ -25,8 +25,21 @@ namespace HelloWorld
                 // Create connection string
                 connect.ConnectionString = "Server = " + ip + "; Port = " + port + "; Namespace =  " + Namespace + "; Password = " + password + "; User ID = " + username;
                 connect.Open();
-                Console.WriteLine("Hello World! You have successfully connected to InterSystems IRIS. Press any key to continue.");
-                Console.ReadKey();
+                Console.WriteLine("Hello World! You have successfully connected to InterSystems IRIS.");
+				
+				// Retrieve first 5 yellow birds from InterSystems IRIS using ADO.net
+				String sql = "SELECT TOP(5) name from Demo.Pet where color='Yellow' and type='bird'";
+				IRISCommand selectcmd = new IRISCommand(sql, connect);
+				IRISDataReader reader = selectcmd.ExecuteReader();
+				Console.WriteLine("Name");
+				while (reader.Read())
+				{
+					String name= (string)reader[reader.GetOrdinal("Name")];
+					Console.WriteLine(name);
+				}
+				
+				Console.WriteLine("Press any key to continue.");
+				Console.ReadKey();
             }
             catch (Exception e)
             {
