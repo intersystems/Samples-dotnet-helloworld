@@ -12,6 +12,6 @@ In the integrated terminal window type:
 This outputs data about the first 5 birds stored within InterSystems IRIS.
 	
 ## Keep Exploring
-* To see another example of .NET and InterSystems IRIS, take a look at the [.NET Multimodel](../quickstarts-multimodel-dotnet/README.md) example.
+* To see another example of .NET and InterSystems IRIS, take a look at the [.NET multi-model example](../quickstarts-multimodel-dotnet/README.md).
 * Or, continue to work with the pre-loaded petstore data.
 	
