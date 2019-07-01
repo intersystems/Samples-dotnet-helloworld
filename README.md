@@ -1,5 +1,5 @@
 # Samples-dotnet-helloworld
-This is a simple hello world example to show a .NET connection to InterSystems IRIS. It retrieves and outputs sample petstore data that has been pre-loaded into your instance of InterSystems IRIS.
+This is a simple Hello World example to show a .NET connection to InterSystems IRIS. It retrieves and outputs sample petstore data that has been preloaded into your instance of InterSystems IRIS.
 
 
 ## Run the sample
@@ -9,9 +9,9 @@ In the integrated terminal window type:
 * `dotnet run`
 
 	
-This outputs data about the first 5 birds stored within InterSystems IRIS.
+This outputs data about the first five birds stored within InterSystems IRIS.
 	
 ## Keep Exploring
 * To see another example of .NET and InterSystems IRIS, take a look at the [.NET multi-model example](../quickstarts-multimodel-dotnet/README.md).
-* Or, continue to work with the pre-loaded petstore data.
+* Or continue to work with the preloaded petstore data.
 	
