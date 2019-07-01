@@ -5,13 +5,13 @@ This is a simple Hello World example to show a .NET connection to InterSystems I
 ## Run the sample
 In the integrated terminal window type: 
 
-* `cd /home/project/Samples-dotnet-helloworld`  
+* `cd home/project/Samples-dotnet-helloworld`  
 * `dotnet run`
 
 	
 This outputs data about the first five birds stored within InterSystems IRIS.
 	
 ## Keep Exploring
-* To see another example of .NET and InterSystems IRIS, take a look at the [.NET multi-model example](../quickstarts-multimodel-dotnet/README.md).
+* To see another example of .NET and InterSystems IRIS, take a look at the [.NET multi-model example](home/project/quickstarts-multimodel-dotnet/README.md).
 * Or continue to work with the preloaded petstore data.
 	
