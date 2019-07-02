@@ -5,7 +5,7 @@ This is a simple Hello World example to show a .NET connection to InterSystems I
 ## Run the sample
 In the integrated terminal window type: 
 
-* `cd home/project/Samples-dotnet-helloworld`  
+* `cd /home/project/Samples-dotnet-helloworld`  
 * `dotnet run`
 
 	
